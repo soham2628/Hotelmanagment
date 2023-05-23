@@ -1,2 +1,0 @@
-# Hotelmanagment
-new repo
